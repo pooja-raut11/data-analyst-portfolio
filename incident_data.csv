@@ -1,0 +1,8 @@
+IncidentID,Region,Priority,Status,ResolutionTime,CreatedDate
+1,West,High,Closed,5,2024-01-01
+2,East,Medium,Closed,3,2024-01-02
+3,North,High,Closed,6,2024-01-03
+4,South,Low,Closed,2,2024-01-04
+5,West,High,Closed,4,2024-01-05
+6,East,Medium,Closed,3,2024-01-06
+7,South,High,Closed,5,2024-01-07
