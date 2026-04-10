@@ -1,0 +1,9 @@
+OrderID,Product,Category,Region,Sales,Profit,OrderDate
+1,Laptop,Electronics,West,55000,8000,2024-01-10
+2,Phone,Electronics,East,30000,5000,2024-01-12
+3,Tablet,Electronics,North,20000,3000,2024-01-15
+4,Chair,Furniture,South,8000,1200,2024-01-18
+5,Desk,Furniture,West,15000,2500,2024-01-20
+6,Laptop,Electronics,East,60000,9000,2024-02-01
+7,Phone,Electronics,South,35000,6000,2024-02-05
+8,Chair,Furniture,North,9000,1500,2024-02-08
